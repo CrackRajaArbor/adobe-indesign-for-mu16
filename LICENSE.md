@@ -1,4 +1,4 @@
-# 
+# advanced Panel for Adobe InDesign for macOS - real-time preview and gradient maps offers the most advanced Adobe InDesign for macOS panel, with real-time preview and gradient
 
 
 
